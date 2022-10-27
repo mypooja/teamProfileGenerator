@@ -1,4 +1,3 @@
-//import {Employee} from "./lib/Employee.js";
 const Employee = require('../lib/Employee');
 
 test("Can instantiate Employee instance", () => {

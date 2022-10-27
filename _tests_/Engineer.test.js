@@ -1,4 +1,3 @@
-//import {Engineer} from './lib/Engineer.js';
 const Engineer = require('../lib/Engineer');
 
 test("Can set GitHUb account via constructor", () => {

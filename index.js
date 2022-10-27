@@ -1,10 +1,3 @@
-//import inquirer from 'inquirer';
-//import fs from 'fs';
-//import {Manager} from "./lib/Manager.js";
-//import {Engineer} from './lib/Engineer.js';
-//import {Intern} from './lib/Intern.js';
-//import {generateHTML} from './src/generateHTML.js';
-
 const fs = require('fs'); 
 const inquirer = require('inquirer');
 const Manager = require('./lib/Manager');
@@ -12,7 +5,6 @@ const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern'); 
 const generateHTML = require('./src/generateHTML');
 
-// team array
 const teamArray = []; 
 
 const addManager = () => {
