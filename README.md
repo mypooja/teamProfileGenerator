@@ -14,7 +14,7 @@ Answer all the questions propmted by the application. After answering all the qu
 
 ## Screen captures
 ### Video
-Walkthrough video can be seen [here](./assets/employee-video.webm)
+Walkthrough video can be seen [here](https://drive.google.com/file/d/1iJkrIXiM-mbLwFXymM5ikrBlKJVgMgNf/view)
 
 ### Screenshot
 ![ScreenShot of the generated Readme](./assets/employee-screenshot.png)
