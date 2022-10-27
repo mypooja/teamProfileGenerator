@@ -1,0 +1,28 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Creates team profile html based on user input",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mypooja/teamProfileGenerator.git"
+  },
+  "author": "Pooja Agarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mypooja/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/mypooja/teamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
